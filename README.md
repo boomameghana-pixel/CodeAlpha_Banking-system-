@@ -1,2 +1,3 @@
-# CodeAlpha_Banking-system-
-https://www.programiz.com/online-compiler/6n6r46vrsmoeJ
+Banking System made in C language
+This project is done for CodeAlpha Internship Task.
+Features: Deposit, Withdraw, Balance Enquiry and Exit.
