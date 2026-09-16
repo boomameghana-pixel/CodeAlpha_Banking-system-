@@ -25,5 +25,5 @@ This C program simulates a simple banking system where users can create accounts
 
 ## How to Run
 ```bash
-gcc "banking system.c" -o banking
+gcc "banking_system.c" -o banking
 ./banking
