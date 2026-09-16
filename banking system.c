@@ -58,7 +58,6 @@ int main(){
         fclose(fp);
     }
 
-
     while(1){
         printf("\n1.Deposit\n2.Withdraw\n3.Balance Enquiry\n4.Exit\n");
         printf("Enter your choice: ");
